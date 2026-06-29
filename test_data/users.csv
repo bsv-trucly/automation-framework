@@ -1,0 +1,5 @@
+username,password,expected_result
+standard_user,secret_sauce,success
+standard_user,secret_sauceee,error
+standard_Truc,secret_sauce,error
+,secret_sauce,error
