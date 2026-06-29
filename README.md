@@ -22,6 +22,7 @@ python3 -m pytest tests/ -v
 python3 -m pytest tests/login/ -v
 python3 -m pytest tests/product/ -v
 python3 -m pytest tests/cart/ -v
+```
 
 ## Cách thêm test data
 
